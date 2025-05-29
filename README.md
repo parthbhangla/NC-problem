@@ -32,3 +32,5 @@ python transfer_learning.py
 
 ### Notes:
 Finally there's an idea.png file which has a flowchart of my idea of how to deal with 3D data (something I have not used before) and 3D_traing.ipynb is a small implementation of it.
+
+You can also go through older committs to checkout old jupyter notebooks where I have tried a bunch of ideas and iterated over model training.
